@@ -30,7 +30,7 @@
 2. 之后分别进入velocity、创造、生存&镜像服这三个文件夹双击.bat文件即可启动
 [![pi9HYLQ.png](https://z1.ax1x.com/2023/10/15/pi9HYLQ.png)](https://imgse.com/i/pi9HYLQ)
 
-## 用说明
+## 使用说明
 
 1. 如果有问题请提交 issues
 
