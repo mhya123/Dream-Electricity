@@ -1,6 +1,6 @@
 # Dream Electricity — 梦幻生电服务端
 
-[Eglish](./Electricity-English.md)
+[Eglish](./Electricity-English.md)language
 ## 梦幻生电整合包 — 让你的 Minecraft 玩家体验不一样的精彩 ✨ 
 
 梦幻生电整合包是一个基于 Minecraft Fabric 服务端的全功能整合包，拥有强大的 MCDR（Minecraft 的 Python 开发工具）以及众多其他功能。无论你是 Minecraft 服务器管理员还是普通玩家，这个整合包都将为你带来全新的游戏体验。
